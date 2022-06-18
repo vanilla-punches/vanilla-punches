@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi! Nice to see you. 👋
+___
+#### Welcome to my page!
+#### This is Ian. Here is who I am!
+
+- 🧑‍🎓I'm studying Mathematical Finance at University of Toronto
+- ❤️I love food, music, fashion, travelling 
+- 😃I support Liverpool FC, Boston Redsox
 
 <!--
 **vanilla-punches/vanilla-punches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
