@@ -1,10 +1,14 @@
 ## 🌻Hi! Nice to see you.
 
-#### Welcome to my page!
-#### This is Ian. Here is who I am:
+#### **Welcome to my page!**
+#### **This is Ian. Here is who I am:**
 - 📖I'm studying Mathematical Finance at University of Toronto
-- ❤️I love food, music, fashion, travelling 
-- 😃I support Liverpool FC, Boston Redsox
+- ❤️I love food, music, fashion, travelling, football, baseball, hockey, basketball, boxing
+- 😃I support Liverpool FC, Boston Redsox, New York Rangers
+
+#### **Interests:**
+Statistical Analysis, Quantitative Analysis, Risk Management, Extreme Values, Machine Learning, Big Data
+
 
 #### LANGUAGES
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
