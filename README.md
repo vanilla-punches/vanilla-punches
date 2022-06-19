@@ -1,5 +1,5 @@
 ## 🌻Hi! Nice to see you.
-___
+
 #### Welcome to my page!
 #### This is Ian. Here is who I am:
 - 📖I'm studying Mathematical Finance at University of Toronto
