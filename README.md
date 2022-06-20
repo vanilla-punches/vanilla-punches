@@ -15,6 +15,7 @@ Statistical Analysis, Quantitative Analysis, Risk Management, Extreme Values, Ma
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=whit)
 ![R](https://img.shields.io/badge/R-276DC3?style=flate&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/static/v1?label=&message=MATLAB&color=critical)
+![SAS](https://img.shields.io/static/v1?label=&message=SAS&color=informational)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 #### More about me:
