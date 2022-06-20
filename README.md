@@ -14,6 +14,8 @@ Statistical Analysis, Quantitative Analysis, Risk Management, Extreme Values, Ma
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=whit)
 ![R](https://img.shields.io/badge/R-276DC3?style=flate&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/static/v1?label=&message=MATLAB&color=critical)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 #### More about me:
 <a href="https://www.instagram.com/vanilla.punches/">
