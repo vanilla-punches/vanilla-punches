@@ -1,15 +1,18 @@
-## 🌻Hi! Nice to see you.
+## 🌻Hi! I'm Ian. Nice to see you.
 
 #### **Welcome to my page!**
-#### **This is Ian. Here is who I am:**
+#### **Here is who I am:**
 - 🎂Born in Seoul & live in Toronto
 - 📖I'm studying Mathematical Finance at University of Toronto
 - ❤️I love food, music, fashion, travelling, movies, paintings
 - 🏃‍♂️I play football, baseball, hockey, basketball, boxing, tennis, golf
 - 😃I support Liverpool FC, Boston Redsox, New York Rangers
 
+I like to share ideas. I like to explore the world.
+If you want to talk and like ice cream 🍨, feel free to reach me out.
+
 #### **Interests:**
-Statistical Analysis, Quantitative Analysis, Risk Management, Extreme Values, Machine Learning, Big Data
+Statistical Analysis, Quantitative Analysis, Finance, Risk Management, Extreme Values, Machine Learning, Big Data
 
 
 #### LANGUAGES
