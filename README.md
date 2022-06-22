@@ -8,7 +8,6 @@
 - 🏃‍♂️I play football, baseball, hockey, basketball, boxing, tennis, golf
 - 😃I support Liverpool FC, Boston Redsox, New York Rangers
 
-I like to share ideas. I like to explore the world.
 If you want to talk and like ice cream 🍨, feel free to reach me out.
 
 #### **Interests:**
