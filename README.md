@@ -11,7 +11,7 @@
 If you want to talk and like ice cream 🍨, feel free to reach me out.
 
 #### **Interests:**
-Statistical Analysis, Stochastic Analysis, Quantitative Analysis, Finance, Risk Management, Extreme Values, Machine Learning, Big Data, Operations Research
+Statistical Analysis, Stochastic Analysis, Quantitative Analysis, Finance, Risk Management, Extreme Values, Machine Learning, Big Data, Operations Research, ESG, Sabermetrics
 
 
 #### LANGUAGES
@@ -23,16 +23,17 @@ Statistical Analysis, Stochastic Analysis, Quantitative Analysis, Finance, Risk 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 #### More about me:
-<a href="https://www.instagram.com/vanilla.punches/">
-    <img 
-        src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vanilla.punches/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 <a href="https://www.linkedin.com/in/ianlee0320/">
     <img 
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ianlee0320/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://www.instagram.com/vanilla.punches/">
+    <img 
+        src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vanilla.punches/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 
 
 
