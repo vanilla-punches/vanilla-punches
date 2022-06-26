@@ -11,7 +11,7 @@
 If you want to talk and like ice cream 🍨, feel free to reach me out.
 
 #### **Interests:**
-Statistical Analysis, Quantitative Analysis, Finance, Risk Management, Extreme Values, Machine Learning, Big Data
+Statistical Analysis, Stochastic Analysis, Quantitative Analysis, Finance, Risk Management, Extreme Values, Machine Learning, Big Data, Operations Research
 
 
 #### LANGUAGES
