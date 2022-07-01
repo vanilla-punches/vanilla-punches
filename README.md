@@ -22,6 +22,10 @@ Statistical Analysis, Stochastic Analysis, Quantitative Analysis, Finance, Risk 
 ![SAS](https://img.shields.io/static/v1?label=&message=SAS&color=informational)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
+### IDE
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+
 #### More about me:
 <a href="https://www.linkedin.com/in/ianlee0320/">
     <img 
