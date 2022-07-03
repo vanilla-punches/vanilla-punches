@@ -3,7 +3,7 @@
 #### **Welcome to my page!**
 #### **Here is who I am:**
 - 🎂Born in Seoul & live in Toronto
-- 📖I'm studying Mathematical Finance at University of Toronto
+- 📖BSc Honors Statistics & MS Mathematical Finance
 - ❤️I love food, music, fashion, travelling, movies, paintings
 - 🏃‍♂️I play football, baseball, hockey, basketball, boxing, tennis, golf
 - 😃I support Liverpool FC, Boston Redsox, New York Rangers
