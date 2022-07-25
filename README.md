@@ -3,7 +3,7 @@
 #### **Welcome to my page!**
 #### **Here is who I am:**
 - 🎂Born in Seoul & live in Toronto
-- 📖BSc Honors Statistics & MS Mathematical Finance
+- 📖Studied Statistics and studying MS Mathematical Finance
 - ❤️I love food, music, fashion, travelling, movies, paintings
 - 🏃‍♂️I play football, baseball, hockey, basketball, boxing, tennis, golf
 - 😃I support Liverpool FC, Boston Redsox, New York Rangers
@@ -11,7 +11,7 @@
 If you want to talk and like ice cream 🍨, feel free to reach me out.
 
 #### **Interests:**
-Statistical Analysis, Stochastic Analysis, Quantitative Analysis, Finance, Risk Management, Extreme Values, Machine Learning, Big Data, Operations Research, ESG, Sabermetrics
+Statistical Analysis, Stochastic Analysis, Quantitative Analysis, Extreme Values, Probability, Time Series Analysis, Modeling, Simularion, Machine Learning, Big Data, Operations Research, Applications to quantitative risk management in finance and insurance, ESG
 
 
 #### LANGUAGES
