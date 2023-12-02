@@ -3,9 +3,9 @@
 #### **Welcome to my page!**
 #### **Here is who I am:**
 - 🎂Born in Seoul & live in Toronto
-- 📖Studied Statistics and studying MS Mathematical Finance
+- 📖Like Statistics, Mathematical Finance, Machine Learning, and AI
 - ❤️I love food, music, fashion, travelling, movies, paintings
-- 🏃‍♂️I play football, baseball, hockey, basketball, boxing, tennis, golf
+- 🏃‍♂️I play boxing, football, baseball, hockey, basketball, tennis, golf
 - 😃I support Liverpool FC, Boston Redsox, New York Rangers
 
 If you want to talk and like ice cream 🍨, feel free to reach me out.
