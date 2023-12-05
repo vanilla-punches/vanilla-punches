@@ -2,16 +2,15 @@
 
 #### **Welcome to my page!**
 #### **Here is who I am:**
-- 🎂Born in Seoul & live in Toronto
-- 📖Like Statistics, Mathematical Finance, Machine Learning, and AI
-- ❤️I love food, music, fashion, travelling, movies, paintings
-- 🏃‍♂️I play boxing, football, baseball, hockey, basketball, tennis, golf
-- 😃I support Liverpool FC, Boston Redsox, New York Rangers
+- 🎂 Born in Seoul & live in Toronto
+- 📖 Like Statistics, Mathematical Finance, Machine Learning, and AI
+- ❤️ I love travelling, movies, paintings
+- 🏃‍♂️ I play boxing, football, baseball, hockey, basketball, tennis, golf
+- 😃 I support Liverpool FC, Boston Redsox, New York Rangers
 
-If you want to talk and like ice cream 🍨, feel free to reach me out.
 
 #### **Interests:**
-Statistical Analysis, Stochastic Analysis, Quantitative Analysis, Extreme Values, Probability, Time Series Analysis, Simulation, Machine Learning, Big Data, Operations Research, Applications to quantitative risk management in finance and insurance, ESG
+Quantitative Finance, Portfolio Construction, AI, Machine Learning, Operations Research
 
 
 #### LANGUAGES
